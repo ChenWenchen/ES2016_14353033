@@ -2,8 +2,8 @@
 ##Lab4 Deadlock Analysis
 
 * 1.试跑了两次，一次停在了228，一次停在了78
-![first](1.png)
-![first](2.bmp)
+![first](https://github.com/ChenWenchen/ES2016_14353033/blob/master/image/deadlock_1.png)
+![first](https://github.com/ChenWenchen/ES2016_14353033/blob/master/image/deadlock_2.bmp)
 
 * 2.死锁产生的四个条件：
   * 资源互斥：一个资源在同一时间只能被一个进程使用。
